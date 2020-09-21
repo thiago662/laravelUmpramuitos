@@ -1,0 +1,5 @@
+//criando seeders
+php artisan make:seeder CategoriaSeeder
+seeders servem para setar informações no banco
+seta as seeders no arquivo DatabaseSeeder
+php artisan db:seed
